@@ -12,3 +12,4 @@ string = 'Кот'
 console.log("искать такси".split('').reverse().join(''))
 
 dfdfsdfds
+фывфывф
